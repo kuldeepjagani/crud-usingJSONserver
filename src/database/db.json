@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "xasasds",
+      "username": "sdas",
+      "email": "sada",
+      "phone": "asds",
+      "id": 1
+    },
+    {
+      "name": "jagani",
+      "username": "kuldeep",
+      "email": "keval12@gmail.com",
+      "phone": "453453345534",
+      "id": 2
+    },
+    {
+      "name": "Ronk",
+      "username": "ronkBhai",
+      "email": "Ronk@gmail.com ",
+      "phone": "123",
+      "id": 3
+    },
+    {
+      "name": "Kuldeep",
+      "username": "222311020077",
+      "email": "aaa@gmail.com",
+      "phone": "11111111",
+      "id": 4
+    }
+  ]
+}
